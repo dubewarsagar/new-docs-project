@@ -9,6 +9,6 @@ This section provides an overview of how to get started with My Documentation Pr
 
 ## Steps
 
-1. Step one
-2. Step two
-3. Step three
+1. Step 1
+2. Step 2
+3. Step 3
